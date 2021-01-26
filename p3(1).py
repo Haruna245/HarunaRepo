@@ -3,7 +3,7 @@ name_str = "fibonacci sequence"
 def sq(n):
     # n refers to the number of item you want to print #
     for i in range(n):
-        print(na[i],end='')
+        print(name_str[i],end='')
 
 
 p_view = sq(10)
