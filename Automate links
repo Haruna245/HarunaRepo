@@ -1,0 +1,6 @@
+Import webbrowser 
+
+lst = [“www..google.com”,www.amazon.com]
+# copy and the the links in the list
+for i in lst:
+      webbrowser.open(i)
